@@ -1,0 +1,72 @@
+{
+    "tenantId": "10102020",
+    "demographicInfo": {
+        "accountType": "PERSONAL",
+        "category": "NON_REVENUE",
+        "paymentModel": "POSTPAID",
+        "visitor": true,
+        "name": {
+            "prefix": "Mx.",
+            "firstName": "Lisa",
+            "middleName": "Charles",
+            "lastName": "Richard",
+            "suffix": "III"
+        },
+        "addressReferenceId": 0,
+        "email": "nicholas02@example.com",
+        "confirmEmail": "nicholas02@example.com",
+        "alternateEmail": "kellioliver@example.org",
+        "mobileNumber": "857.845.6976x7156",
+        "phoneNumber": "8717367045",
+        "companyName": "Jimenez-Smith",
+        "companyCode": 70184
+    },
+    "addressDetails": {
+        "addressReferenceId": 0,
+        "billingAddress": [
+            {
+                "country": "United Arab Emirates",
+                "address1": "3983 Gillespie Drives Suite 009",
+                "address2": "Francis Valleys",
+                "city": "Bruceville",
+                "state": "Joytown",
+                "zipCode": "74237",
+                "isCurrentAddress": false
+            }
+        ],
+        "mailingAddress": [
+            {
+                "country": "Honduras",
+                "address1": "31432 Seth Club",
+                "address2": "Kimberly Cliff",
+                "city": "North Tonya",
+                "state": "Benjaminview",
+                "zipCode": "82155",
+                "isCurrentAddress": false
+            }
+        ],
+        "shippingAddress": [
+            {
+                "country": "Kiribati",
+                "address1": "41024 Parks Park",
+                "address2": "Wang Trail",
+                "city": "East Faithberg",
+                "state": "South James",
+                "zipCode": "30310",
+                "isCurrentAddress": false
+            }
+        ]
+    },
+    "paymentInfo": [
+        {
+            "cardId": "1929898751256959",
+            "paymentMethod": "DEBIT",
+            "cardAlias": "thousand western discuss"
+        },
+        {
+            "cardId": "3799113992982434",
+            "paymentMethod": "DEBIT",
+            "cardAlias": "federal relationship simple"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+services:
+  api-tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      - API_URL=${API_URL}

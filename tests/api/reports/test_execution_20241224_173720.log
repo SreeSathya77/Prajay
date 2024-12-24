@@ -1,0 +1,225 @@
+2024-12-24 17:37:20,448 | INFO     | logger.py:55 | Starting test execution
+2024-12-24 17:37:20,695 | INFO     | logger.py:55 | Testing account creation with type: PA1
+2024-12-24 17:37:20,696 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA1'}
+2024-12-24 17:37:20,696 | INFO     | logger.py:55 | Generating TestData : PA1
+2024-12-24 17:37:20,696 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Revenue_Prepaid_Non_visitor
+2024-12-24 17:37:21,341 | INFO     | logger.py:55 | Account Reference ID 1000001497 is created for the account type: PA1
+2024-12-24 17:37:21,349 | INFO     | logger.py:55 | Successfully created account with type: PA1
+2024-12-24 17:37:21,349 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,349 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,354 | INFO     | logger.py:55 | Testing account creation with type: PA2
+2024-12-24 17:37:21,354 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA2'}
+2024-12-24 17:37:21,354 | INFO     | logger.py:55 | Generating TestData : PA2
+2024-12-24 17:37:21,354 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Revenue_Prepaid_Visitor
+2024-12-24 17:37:21,476 | INFO     | logger.py:55 | Account Reference ID 1000001498 is created for the account type: PA2
+2024-12-24 17:37:21,477 | INFO     | logger.py:55 | Successfully created account with type: PA2
+2024-12-24 17:37:21,477 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,477 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,482 | INFO     | logger.py:55 | Testing account creation with type: PA3
+2024-12-24 17:37:21,482 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA3'}
+2024-12-24 17:37:21,482 | INFO     | logger.py:55 | Generating TestData : PA3
+2024-12-24 17:37:21,482 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Non_Revenue_Postpaid_Non_visitor
+2024-12-24 17:37:21,610 | INFO     | logger.py:55 | Account Reference ID 1000001499 is created for the account type: PA3
+2024-12-24 17:37:21,610 | INFO     | logger.py:55 | Successfully created account with type: PA3
+2024-12-24 17:37:21,610 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,610 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,613 | INFO     | logger.py:55 | Testing account creation with type: BA1
+2024-12-24 17:37:21,613 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'BA1'}
+2024-12-24 17:37:21,613 | INFO     | logger.py:55 | Generating TestData : BA1
+2024-12-24 17:37:21,613 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Business_Revenue_Prepaid_Non_Visitor
+2024-12-24 17:37:21,720 | INFO     | logger.py:55 | Account Reference ID 1000001500 is created for the account type: BA1
+2024-12-24 17:37:21,720 | INFO     | logger.py:55 | Successfully created account with type: BA1
+2024-12-24 17:37:21,721 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,721 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,726 | INFO     | logger.py:55 | Testing account creation with type: BA2
+2024-12-24 17:37:21,726 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'BA2'}
+2024-12-24 17:37:21,726 | INFO     | logger.py:55 | Generating TestData : BA2
+2024-12-24 17:37:21,726 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Business_Non_Revenue_Postpaid_Non_Visitor
+2024-12-24 17:37:21,840 | INFO     | logger.py:55 | Account Reference ID 1000001501 is created for the account type: BA2
+2024-12-24 17:37:21,840 | INFO     | logger.py:55 | Successfully created account with type: BA2
+2024-12-24 17:37:21,840 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,840 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,844 | INFO     | logger.py:55 | Testing account creation with type: FB1
+2024-12-24 17:37:21,844 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'FB1'}
+2024-12-24 17:37:21,844 | INFO     | logger.py:55 | Generating TestData : FB1
+2024-12-24 17:37:21,844 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Fleet_Business_Revenue_Postpaid_As_Non_Visitor_SubFleet_LeaseOrDealership_None_RentalType
+2024-12-24 17:37:21,964 | INFO     | logger.py:55 | Account Reference ID 1000001502 is created for the account type: FB1
+2024-12-24 17:37:21,965 | INFO     | logger.py:55 | Successfully created account with type: FB1
+2024-12-24 17:37:21,965 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:21,965 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:21,970 | INFO     | logger.py:55 | Testing account creation with type: FB2
+2024-12-24 17:37:21,971 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'FB2'}
+2024-12-24 17:37:21,971 | INFO     | logger.py:55 | Generating TestData : FB2
+2024-12-24 17:37:21,971 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Fleet_Business_Revenue_Postpaid_As_Non_Visitor_SubFleet_Rental_Any_RentalType
+2024-12-24 17:37:22,091 | INFO     | logger.py:55 | Account Reference ID 1000001503 is created for the account type: FB2
+2024-12-24 17:37:22,091 | INFO     | logger.py:55 | Successfully created account with type: FB2
+2024-12-24 17:37:22,091 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:22,092 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:22,098 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001497'}
+2024-12-24 17:37:22,174 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,178 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001498'}
+2024-12-24 17:37:22,196 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,200 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001499'}
+2024-12-24 17:37:22,212 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,216 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001500'}
+2024-12-24 17:37:22,230 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,232 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001501'}
+2024-12-24 17:37:22,243 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,245 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001502'}
+2024-12-24 17:37:22,256 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,259 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001503'}
+2024-12-24 17:37:22,272 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:22,275 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001497'}
+2024-12-24 17:37:22,275 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001497'}}
+2024-12-24 17:37:22,444 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f8a26a90132e176c05
+2024-12-24 17:37:22,451 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001498'}
+2024-12-24 17:37:22,451 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001498'}}
+2024-12-24 17:37:22,560 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f8a26a90132e176c07
+2024-12-24 17:37:22,566 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001499'}
+2024-12-24 17:37:22,566 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001499'}}
+2024-12-24 17:37:22,695 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f9a26a90132e176c08
+2024-12-24 17:37:22,701 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001500'}
+2024-12-24 17:37:22,701 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001500'}}
+2024-12-24 17:37:22,836 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f9a26a90132e176c0a
+2024-12-24 17:37:22,847 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001501'}
+2024-12-24 17:37:22,847 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001501'}}
+2024-12-24 17:37:22,961 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f9a26a90132e176c0c
+2024-12-24 17:37:22,967 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001502'}
+2024-12-24 17:37:22,967 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001502'}}
+2024-12-24 17:37:23,111 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f9a26a90132e176c0e
+2024-12-24 17:37:23,116 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001503'}
+2024-12-24 17:37:23,117 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001503'}}
+2024-12-24 17:37:23,247 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3f9a26a90132e176c10
+2024-12-24 17:37:23,253 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001497', 'vehicleRefId': '676aa3f8a26a90132e176c05'}
+2024-12-24 17:37:23,365 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001637
+2024-12-24 17:37:23,367 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001498', 'vehicleRefId': '676aa3f8a26a90132e176c07'}
+2024-12-24 17:37:23,449 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001638
+2024-12-24 17:37:23,454 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001499', 'vehicleRefId': '676aa3f9a26a90132e176c08'}
+2024-12-24 17:37:23,515 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001639
+2024-12-24 17:37:23,520 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001500', 'vehicleRefId': '676aa3f9a26a90132e176c0a'}
+2024-12-24 17:37:23,643 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001640
+2024-12-24 17:37:23,656 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001501', 'vehicleRefId': '676aa3f9a26a90132e176c0c'}
+2024-12-24 17:37:23,744 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001641
+2024-12-24 17:37:23,749 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001502', 'vehicleRefId': '676aa3f9a26a90132e176c0e'}
+2024-12-24 17:37:23,809 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001642
+2024-12-24 17:37:23,813 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001503', 'vehicleRefId': '676aa3f9a26a90132e176c10'}
+2024-12-24 17:37:23,868 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001643
+2024-12-24 17:37:23,870 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001497', 'vehicleRefId': '676aa3f8a26a90132e176c05', 'accountId': '2000001637'}
+2024-12-24 17:37:23,902 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001498', 'vehicleRefId': '676aa3f8a26a90132e176c07', 'accountId': '2000001638'}
+2024-12-24 17:37:23,925 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001499', 'vehicleRefId': '676aa3f9a26a90132e176c08', 'accountId': '2000001639'}
+2024-12-24 17:37:23,943 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001500', 'vehicleRefId': '676aa3f9a26a90132e176c0a', 'accountId': '2000001640'}
+2024-12-24 17:37:23,975 | INFO     | logger.py:55 | Testing account creation with type: {'accountRefId': '1000001502', 'vehicleRefId': '676aa3f9a26a90132e176c0e', 'accountId': '2000001642'}
+2024-12-24 17:37:24,003 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: PA1
+2024-12-24 17:37:24,003 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA1'}
+2024-12-24 17:37:24,003 | INFO     | logger.py:55 | Generating TestData : PA1
+2024-12-24 17:37:24,003 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Revenue_Prepaid_Non_visitor
+2024-12-24 17:37:24,118 | INFO     | logger.py:55 | Account Reference ID 1000001504 is created for the account type: PA1
+2024-12-24 17:37:24,118 | INFO     | logger.py:55 | Successfully created account with type: PA1
+2024-12-24 17:37:24,119 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:24,119 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:24,119 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001504'}
+2024-12-24 17:37:24,132 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:24,133 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001504'}
+2024-12-24 17:37:24,133 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001504'}}
+2024-12-24 17:37:24,257 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3faa26a90132e176c12
+2024-12-24 17:37:24,257 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001504', 'vehicleRefId': '676aa3faa26a90132e176c12'}
+2024-12-24 17:37:24,353 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001644
+2024-12-24 17:37:24,354 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001504', 'vehicleRefId': '676aa3faa26a90132e176c12', 'accountId': '2000001644'}
+2024-12-24 17:37:24,384 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: PA2
+2024-12-24 17:37:24,384 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA2'}
+2024-12-24 17:37:24,384 | INFO     | logger.py:55 | Generating TestData : PA2
+2024-12-24 17:37:24,384 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Revenue_Prepaid_Visitor
+2024-12-24 17:37:24,499 | INFO     | logger.py:55 | Account Reference ID 1000001505 is created for the account type: PA2
+2024-12-24 17:37:24,500 | INFO     | logger.py:55 | Successfully created account with type: PA2
+2024-12-24 17:37:24,500 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:24,500 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:24,500 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001505'}
+2024-12-24 17:37:24,516 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:24,516 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001505'}
+2024-12-24 17:37:24,516 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001505'}}
+2024-12-24 17:37:24,671 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fba26a90132e176c14
+2024-12-24 17:37:24,671 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001505', 'vehicleRefId': '676aa3fba26a90132e176c14'}
+2024-12-24 17:37:24,743 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001645
+2024-12-24 17:37:24,744 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001505', 'vehicleRefId': '676aa3fba26a90132e176c14', 'accountId': '2000001645'}
+2024-12-24 17:37:24,771 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: PA3
+2024-12-24 17:37:24,771 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'PA3'}
+2024-12-24 17:37:24,772 | INFO     | logger.py:55 | Generating TestData : PA3
+2024-12-24 17:37:24,772 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Personal_Non_Revenue_Postpaid_Non_visitor
+2024-12-24 17:37:24,879 | INFO     | logger.py:55 | Account Reference ID 1000001506 is created for the account type: PA3
+2024-12-24 17:37:24,879 | INFO     | logger.py:55 | Successfully created account with type: PA3
+2024-12-24 17:37:24,879 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:24,880 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:24,880 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001506'}
+2024-12-24 17:37:24,888 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:24,889 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001506'}
+2024-12-24 17:37:24,889 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001506'}}
+2024-12-24 17:37:25,014 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fba26a90132e176c15
+2024-12-24 17:37:25,014 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001506', 'vehicleRefId': '676aa3fba26a90132e176c15'}
+2024-12-24 17:37:25,073 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001646
+2024-12-24 17:37:25,074 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001506', 'vehicleRefId': '676aa3fba26a90132e176c15', 'accountId': '2000001646'}
+2024-12-24 17:37:25,091 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: BA1
+2024-12-24 17:37:25,091 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'BA1'}
+2024-12-24 17:37:25,092 | INFO     | logger.py:55 | Generating TestData : BA1
+2024-12-24 17:37:25,092 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Business_Revenue_Prepaid_Non_Visitor
+2024-12-24 17:37:25,229 | INFO     | logger.py:55 | Account Reference ID 1000001507 is created for the account type: BA1
+2024-12-24 17:37:25,229 | INFO     | logger.py:55 | Successfully created account with type: BA1
+2024-12-24 17:37:25,229 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:25,229 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:25,230 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001507'}
+2024-12-24 17:37:25,242 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:25,242 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001507'}
+2024-12-24 17:37:25,242 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001507'}}
+2024-12-24 17:37:25,355 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fba26a90132e176c17
+2024-12-24 17:37:25,355 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001507', 'vehicleRefId': '676aa3fba26a90132e176c17'}
+2024-12-24 17:37:25,423 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001647
+2024-12-24 17:37:25,423 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001507', 'vehicleRefId': '676aa3fba26a90132e176c17', 'accountId': '2000001647'}
+2024-12-24 17:37:25,450 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: BA2
+2024-12-24 17:37:25,451 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'BA2'}
+2024-12-24 17:37:25,451 | INFO     | logger.py:55 | Generating TestData : BA2
+2024-12-24 17:37:25,451 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Business_Non_Revenue_Postpaid_Non_Visitor
+2024-12-24 17:37:25,566 | INFO     | logger.py:55 | Account Reference ID 1000001508 is created for the account type: BA2
+2024-12-24 17:37:25,567 | INFO     | logger.py:55 | Successfully created account with type: BA2
+2024-12-24 17:37:25,567 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:25,567 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:25,567 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001508'}
+2024-12-24 17:37:25,579 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:25,579 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001508'}
+2024-12-24 17:37:25,579 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001508'}}
+2024-12-24 17:37:25,697 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fca26a90132e176c19
+2024-12-24 17:37:25,698 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001508', 'vehicleRefId': '676aa3fca26a90132e176c19'}
+2024-12-24 17:37:25,748 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001648
+2024-12-24 17:37:25,748 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001508', 'vehicleRefId': '676aa3fca26a90132e176c19', 'accountId': '2000001648'}
+2024-12-24 17:37:25,768 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: FB1
+2024-12-24 17:37:25,768 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'FB1'}
+2024-12-24 17:37:25,768 | INFO     | logger.py:55 | Generating TestData : FB1
+2024-12-24 17:37:25,769 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Fleet_Business_Revenue_Postpaid_As_Non_Visitor_SubFleet_LeaseOrDealership_None_RentalType
+2024-12-24 17:37:25,890 | INFO     | logger.py:55 | Account Reference ID 1000001509 is created for the account type: FB1
+2024-12-24 17:37:25,891 | INFO     | logger.py:55 | Successfully created account with type: FB1
+2024-12-24 17:37:25,891 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:25,891 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:25,891 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001509'}
+2024-12-24 17:37:25,902 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:25,902 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001509'}
+2024-12-24 17:37:25,902 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001509'}}
+2024-12-24 17:37:26,011 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fca26a90132e176c1a
+2024-12-24 17:37:26,012 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001509', 'vehicleRefId': '676aa3fca26a90132e176c1a'}
+2024-12-24 17:37:26,070 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001649
+2024-12-24 17:37:26,070 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001509', 'vehicleRefId': '676aa3fca26a90132e176c1a', 'accountId': '2000001649'}
+2024-12-24 17:37:26,099 | INFO     | logger.py:55 | Validate create_or_draft API for the account type: FB2
+2024-12-24 17:37:26,100 | INFO     | logger.py:55 | Testing account creation with type: {'create_or_draft': 'FB2'}
+2024-12-24 17:37:26,100 | INFO     | logger.py:55 | Generating TestData : FB2
+2024-12-24 17:37:26,100 | INFO     | logger.py:55 | Generating TestData for DOA ID is : Fleet_Business_Revenue_Postpaid_As_Non_Visitor_SubFleet_Rental_Any_RentalType
+2024-12-24 17:37:26,213 | INFO     | logger.py:55 | Account Reference ID 1000001510 is created for the account type: FB2
+2024-12-24 17:37:26,213 | INFO     | logger.py:55 | Successfully created account with type: FB2
+2024-12-24 17:37:26,214 | INFO     | logger.py:55 | status : Created
+2024-12-24 17:37:26,214 | INFO     | logger.py:55 | Message : Temporary Account successfully created
+2024-12-24 17:37:26,214 | INFO     | logger.py:55 | Validating demographics_get API for the account type: {'accountRefId': '1000001510'}
+2024-12-24 17:37:26,227 | INFO     | logger.py:55 | Message : Account RefID. Status as SAVED
+2024-12-24 17:37:26,228 | INFO     | logger.py:55 | Validate vehicle_tag_add API for the account type: {'accountRefId': '1000001510'}
+2024-12-24 17:37:26,228 | INFO     | logger.py:55 | Testing account creation with type: {'vehicle_tag_add': {'accountRefId': '1000001510'}}
+2024-12-24 17:37:26,353 | INFO     | logger.py:55 | Message : Account RefID. Status as created with vehicleRefId : 676aa3fca26a90132e176c1c
+2024-12-24 17:37:26,354 | INFO     | logger.py:55 | Validate VehicleTag_submit API for action type: {'accountRefId': '1000001510', 'vehicleRefId': '676aa3fca26a90132e176c1c'}
+2024-12-24 17:37:26,412 | INFO     | logger.py:55 | Message : Account is created Successfully and ID is : 2000001650
+2024-12-24 17:37:26,412 | INFO     | logger.py:55 | Validate VehicleTag_update API for type: {'accountRefId': '1000001510', 'vehicleRefId': '676aa3fca26a90132e176c1c', 'accountId': '2000001650'}
+2024-12-24 17:37:30,437 | INFO     | logger.py:55 | Skipping email report - not running in Docker
+2024-12-24 17:37:30,437 | INFO     | logger.py:55 | Test execution completed with exit status: 0
